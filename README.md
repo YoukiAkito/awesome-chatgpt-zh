@@ -12,45 +12,21 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   * [什么是 ChatGPT ?](docs/shi-mo-shi-chatgpt.md)
   * [ChatGPT 使用途径](docs/ChatGPT\_access.md)
   * [与 ChatGPT 高效对话？——Prompt工程指南](docs/ChatGPT\_prompts.md)
-  * [OpenAI GPTs 指南](./#openai-gpts-指南)
-  * [ChatGPT 顶级爆款开源项目(10K+ Stars)](./#chatgpt-顶级爆款开源项目10k-stars)
-  * [ChatGPT 应用](./#chatgpt-应用)
-  * [ChatGPT 插件](./#chatgpt-插件)
-  * [ChatGPT 应用开发指南](./#chatgpt-应用开发指南)
-  * [Sora 指南](./#sora-指南)
-  * [LLMs: 大模型](./#llms-大模型)
-  * [AGI：通用人工智能之路](./#agi通用人工智能之路)
-  * [AI 生产力工具](./#ai-生产力工具)
-  * [AI 搞钱](./#ai-搞钱)
-  * [思考](./#思考)
+  * [OpenAI GPTs 指南](https://github.com/EmbraceAGI/Awesome-AI-GPTs)
+  * [ChatGPT 顶级爆款开源项目(10K+ Stars)](./#chatgpt-ding-ji-bao-kuan-kai-yuan-xiang-mu-10k-stars)
+  * [ChatGPT 应用](docs/ChatGPT\_tools.md)
+  * [ChatGPT 插件](docs/ChatGPT\_plugins.md)
+  * [ChatGPT 应用开发指南](docs/ChatGPT\_dev.md)
+  * [Sora 指南](docs/Sora.md)
+  * [LLMs: 大模型](docs/LLMs.md)
+  * [AGI：通用人工智能之路](docs/AGI.md)
+  * [AI 生产力工具](docs/AI\_tools.md)
+  * [AI 搞钱](docs/AI\_money.md)
+  * [思考](docs/thinking.md)
   * [ChatGPT 使用交流](./#chatgpt-使用交流)
   * [Star History](./#star-history)
   * [贡献指南](./#贡献指南)
   * [致谢](./#致谢)
-
-
-
-## [OpenAI GPTs 指南](https://github.com/EmbraceAGI/Awesome-AI-GPTs)
-
-## [ChatGPT 顶级爆款开源项目(10K+ Stars)](docs/ChatGPT\_Top\_Project.md)
-
-## [ChatGPT 应用](docs/ChatGPT\_tools.md)
-
-## [ChatGPT 插件](docs/ChatGPT\_plugins.md)
-
-## [ChatGPT 应用开发指南](docs/ChatGPT\_dev.md)
-
-## [Sora 指南](docs/Sora.md)
-
-## [LLMs: 大模型](docs/LLMs.md)
-
-## [AGI：通用人工智能之路](docs/AGI.md)
-
-## [AI 生产力工具](docs/AI\_tools.md)
-
-## [AI 搞钱](docs/AI\_money.md)
-
-## [思考](docs/thinking.md)
 
 ## ChatGPT 使用交流
 
