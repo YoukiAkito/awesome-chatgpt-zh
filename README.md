@@ -32,23 +32,6 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   * [贡献指南](./#贡献指南)
   * [致谢](./#致谢)
 
-## ChatGPT 使用交流
-
-**1.微信公众号**
-
-![wx\_gh](imgs/qrcode\_for\_wx\_gh.jpg)
-
-**2.Prompt 交流微信群**
-
-![wx](https://raw.githubusercontent.com/yzfly/wonderful-prompts/main/imgs/wx\_tmp.jpg)
-
-**3.Telegram 电报**
-
-欢迎加入电报交流群讨论 ChatGPT 相关资源及日常使用等相关话题：
-
-* 🚀[电报频道：ChatGPT 精选](https://t.me/AwesomeChatGPT)🚀
-* 🚀[电报交流群：ChatGPT 精选 Chat](https://t.me/+cBIhxVSwABg4Y2M5)🚀
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yzfly/awesome-chatgpt-zh\&type=Date)](https://star-history.com/#yzfly/awesome-chatgpt-zh\&Date)
